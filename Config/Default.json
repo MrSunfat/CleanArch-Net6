@@ -7,5 +7,6 @@
     "Cors": [
 
     ],
+    "Env": "local",
     "AllowedHosts": "*"
 }

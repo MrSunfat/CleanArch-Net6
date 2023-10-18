@@ -48,5 +48,10 @@ namespace CleanArch.BusinessAPI
         public static void Main(string[] args) {
             
         }
+
+        // public static IHostBuilder CreateHostBuilder(string[] args ) => 
+        //     Host.CreateDefaultBuilder(args)
+        //         .ConfigureAppsettings()
+        //         .
     }
 }
